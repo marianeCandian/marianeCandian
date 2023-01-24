@@ -16,6 +16,3 @@ Sou Engenheira de Alimentos, trabalhei durante 4 anos na área de segurança e q
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=marianeCandian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianeCandian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Snake eating my contribution graph :snake:
-![snake svg](https://github.com/marianeCandian/marianeCandian/blob/output/github-contribution-grid-snake.svg) 
