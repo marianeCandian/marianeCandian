@@ -2,9 +2,6 @@
 
 ## 🌐Redes Sociais:
 
-<a href="mariane.candian@gmail.com" target="_blank">
-  <img src="https://e7.pngegg.com/pngimages/344/344/png-clipart-google-logo-google-logo-g-suite-google-text-logo.png" width="48px" height="48px">
-</a> 
 <a href="https://www.instagram.com/annecandian/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
@@ -15,6 +12,7 @@
 <br/> 
 <br/>
 Sou Engenheira de Alimentos, trabalhei durante 4 anos na área de segurança e qualidade. Depois de muita pesquisa, conheci o mercado de tecnologia e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. No repositório do curso, é possível verificar uma listagem com a grade curricular e projetos já realizados.
+Não deixe de me contata pelo email: mariane.candian@gmail.com
 <br/>
 <br/> 
 
