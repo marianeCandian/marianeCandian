@@ -12,6 +12,7 @@
 <br/> 
 <br/>
 Sou Engenheira de Alimentos, trabalhei durante 4 anos na área de segurança e qualidade. Depois de muita pesquisa, conheci o mercado de tecnologia e hoje estou em transição de carreira, estudando Desenvolvimento Web na Trybe. No repositório do curso, é possível verificar uma listagem com a grade curricular e projetos já realizados.
+<br/>
 Não deixe de me contata pelo email: mariane.candian@gmail.com
 <br/>
 <br/> 
