@@ -33,12 +33,8 @@ Não deixe de me contata pelo email: mariane.candian@gmail.com
 </div>
 
 # 📊GitHub Stats :
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=marianeCandian&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="mariane-candian" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianeCandian&layout=compact&theme=graywhite&title_color=268bd2" alt="mariane-candian" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=marianeCandian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<p/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianeCandian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 <br />
 <br />
